@@ -1,0 +1,7 @@
+Name			Accnum
+
+vicky			123
+s
+weety			345
+
+sreeni			456
